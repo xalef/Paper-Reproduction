@@ -1,0 +1,2 @@
+Q: In which decade did Billboard magazine first publish and American hit chart?
+A: {'aliases': ["30's", '30’s', '30s', '30s AD', '30-39'], 'normalized_aliases': ['30 39', '30 s', '30s ad', '30s'], 'matched_wiki_entity_name': '', 'normalized_matched_wiki_entity_name': '', 'normalized_value': '30s', 'type': 'WikipediaEntity', 'value': '30s'}

@@ -1,0 +1,2 @@
+Q: Where was horse racing's Breeders' Cup held in 1988?
+A: {'aliases': ['Churchill Downs, Louisville, Kentucky'], 'normalized_aliases': ['churchill downs louisville kentucky'], 'matched_wiki_entity_name': '', 'normalized_matched_wiki_entity_name': '', 'normalized_value': 'churchill downs louisville kentucky', 'type': 'FreeForm', 'value': 'Churchill Downs, Louisville, Kentucky'}

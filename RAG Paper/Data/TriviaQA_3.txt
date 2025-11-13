@@ -1,0 +1,2 @@
+Q: William Christensen of Madison, New Jersey, has claimed to have the world's biggest collection of what?
+A: {'aliases': ['Beer Cans'], 'normalized_aliases': ['beer cans'], 'matched_wiki_entity_name': '', 'normalized_matched_wiki_entity_name': '', 'normalized_value': 'beer cans', 'type': 'FreeForm', 'value': 'Beer Cans'}

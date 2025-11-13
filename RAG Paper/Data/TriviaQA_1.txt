@@ -1,0 +1,2 @@
+Q: Which American-born Sinclair won the Nobel Prize for Literature in 1930?
+A: {'aliases': ['(Harry) Sinclair Lewis', 'Harry Sinclair Lewis', 'Lewis, (Harry) Sinclair', 'Grace Hegger', 'Sinclair Lewis'], 'normalized_aliases': ['grace hegger', 'lewis harry sinclair', 'sinclair lewis', 'harry sinclair lewis'], 'matched_wiki_entity_name': '', 'normalized_matched_wiki_entity_name': '', 'normalized_value': 'sinclair lewis', 'type': 'WikipediaEntity', 'value': 'Sinclair Lewis'}
